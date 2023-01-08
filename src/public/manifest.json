@@ -1,0 +1,27 @@
+{
+  "name": "Food D'Besto App",
+  "short_name": "A food catalogue",
+  "description": "Food catalogue web app using webpack",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3dabff",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "211x211",
+      "type": "image/png"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "maskable_icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+    "restaurants": [{
+      "id": "resep-ikan-baronang-bakar",
+      "title": "Resep Ikan Baronang Bakar Kecap Manis Gurih, Menu Makan Istimewa",
+      "time": "1jam",
+      "servings": "4 Porsi",
+      "difficulty": "Mudah",
+      "recipe": "http://api-food-recipe.herokuapp.com/recipe/resep-ikan-baronang-bakar",
+      "images": ["https://www.masakapahariini.com/wp-content/uploads/2022/05/resep-ikan-baronang-bakar-400x240.jpg"]
+    }, {
+      "id": "resep-puding-coklat-biskuit",
+      "title": "Resep Puding Coklat Biskuit, Menu Dessert Gaya Kekinian",
+      "time": "1jam",
+      "servings": "8 Porsi",
+      "difficulty": "Mudah",
+      "recipe": "http://api-food-recipe.herokuapp.com/recipe/resep-puding-coklat-biskuit",
+      "images": ["https://www.masakapahariini.com/wp-content/uploads/2022/05/resep-puding-coklat-biskuit-400x240.jpg"]
+    }, {
+      "id": "resep-dada-ayam-kukus-bumbu-saus-tiram",
+      "title": "Resep Dada Ayam Kukus Bumbu Saus Tiram, Menu Sehat yang Enak",
+      "time": "1jam",
+      "servings": "4 Porsi",
+      "difficulty": "Mudah",
+      "recipe": "http://api-food-recipe.herokuapp.com/recipe/resep-dada-ayam-kukus-bumbu-saus-tiram",
+      "images": ["https://www.masakapahariini.com/wp-content/uploads/2022/05/resep-dada-ayam-400x240.jpg"]
+    }, {
+      "id": "resep-lumpia-beef-a-la-thailand",
+      "title": "Resep Lumpia Beef a la Thailand, Ide Camilan Enak untuk Keluarga",
+      "time": "1jam",
+      "servings": "4 Porsi",
+      "difficulty": "Mudah",
+      "recipe": "http://api-food-recipe.herokuapp.com/recipe/resep-lumpia-beef-a-la-thailand",
+      "images": ["https://www.masakapahariini.com/wp-content/uploads/2022/05/lumpia-beef-400x240.jpg"]
+    }, {
+      "id": "resep-sapo-tahu-seafood",
+      "title": "Resep Sapo Tahu Seafood, Hidangan Keluarga Klasik dan Lezat",
+      "time": "1jam 30mnt",
+      "servings": "4 Porsi",
+      "difficulty": "Cukup Rumit",
+      "recipe": "http://api-food-recipe.herokuapp.com/recipe/resep-sapo-tahu-seafood",
+      "images": ["https://www.masakapahariini.com/wp-content/uploads/2022/05/sapo-tahu-seafood-400x240.jpg"]
+    }, {
+      "id": "resep-sate-ambal-khas-kebumen",
+      "title": "Resep Sate Ambal Khas Kebumen, Warisan Kuliner Nusantara Wajib Coba",
+      "time": "1jam",
+      "servings": "4 Porsi",
+      "difficulty": "Mudah",
+      "recipe": "http://api-food-recipe.herokuapp.com/recipe/resep-sate-ambal-khas-kebumen",
+      "images": ["https://www.masakapahariini.com/wp-content/uploads/2019/04/sate-ambal-400x240.jpg"]
+    }]
+  }
